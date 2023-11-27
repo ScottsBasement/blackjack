@@ -1,1 +1,7 @@
-# blackjack
+# Blackjack - Bitlife Inspired
+## What is Blackjack?
+Blackjack is a popular card game played in casinos where players aim to beat the dealer without going over a total card value of 21. Each player is dealt cards and can choose to 'hit' (take another card) or 'stand' (keep their current hand). The objective is to have a hand value closer to 21 than the dealer's hand without going over. Face cards (like Kings, Queens, and Jacks) have a value of 10, while numbered cards retain their face value. Aces can count as 1 or 11, depending on the player's choice, making it a strategic element of the game.
+## What is Bitlife's Blackjack?
+It's a simplified version of Blackjack, but more simple. The objective remains the same: achieve a hand value closer to 21 than the dealer without going over. Players are dealt cards and can choose to 'hit' for another card or 'stand' to keep their current hand. If you do exceed 21, or the dealer exceeds your value without having the same value as you, then you'll lose the amount you gambled. BitLife's blackjack game is a basic, luck-based activity where players can enjoy a simulated casino experience within the larger life simulation game.
+## What does this mean?
+This means that I'll be taking Bitlife's Blackjack version and remaking it into a short simple game, but without the bitlife app fully. So just the blackjack luck based game without any actual gambling, either fake currency or just for fun.
